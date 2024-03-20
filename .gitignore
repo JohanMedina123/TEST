@@ -1,0 +1,3 @@
+/data/MNIST/raw/*
+/data/EMNIST/raw/*
+01.py
